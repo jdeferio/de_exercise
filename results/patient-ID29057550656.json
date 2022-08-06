@@ -1,0 +1,22 @@
+{
+    "first_name": "Elliot",
+    "last_name": "Ness",
+    "med_summary": {
+        "valsartan-hydrochlorothiazide": {
+            "allowed_amount": 28.48,
+            "days_supply": 60
+        },
+        "metformin hydrochloride": {
+            "allowed_amount": 10.0,
+            "days_supply": 90
+        },
+        "glimepiride": {
+            "allowed_amount": 16.0,
+            "days_supply": 120
+        },
+        "rosuvastatin calcium": {
+            "allowed_amount": 23.92,
+            "days_supply": 120
+        }
+    }
+}

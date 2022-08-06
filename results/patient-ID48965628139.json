@@ -1,0 +1,46 @@
+{
+    "first_name": "Georgia",
+    "last_name": "Peach",
+    "med_summary": {
+        "sitagliptin": {
+            "allowed_amount": 1318.23,
+            "days_supply": 90
+        },
+        "ertugliflozin": {
+            "allowed_amount": 1439.3500000000001,
+            "days_supply": 150
+        },
+        "hydrochlorothiazide": {
+            "allowed_amount": 16.32,
+            "days_supply": 90
+        },
+        "allopurinol": {
+            "allowed_amount": 29.92,
+            "days_supply": 90
+        },
+        "varicella zoster vaccine (recombinant)": {
+            "allowed_amount": 164.1,
+            "days_supply": 1
+        },
+        "metformin hydrochloride": {
+            "allowed_amount": 18.05,
+            "days_supply": 90
+        },
+        "rosuvastatin calcium": {
+            "allowed_amount": 20.75,
+            "days_supply": 90
+        },
+        "losartan-hydrochlorothiazide": {
+            "allowed_amount": 16.29,
+            "days_supply": 90
+        },
+        "losartan potassium": {
+            "allowed_amount": 15.06,
+            "days_supply": 90
+        },
+        "amlodipine besylate": {
+            "allowed_amount": 15.62,
+            "days_supply": 90
+        }
+    }
+}

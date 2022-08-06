@@ -1,0 +1,22 @@
+{
+    "first_name": "Ira",
+    "last_name": "Hayes",
+    "med_summary": {
+        "clobetasol propionate": {
+            "allowed_amount": 43.57,
+            "days_supply": 20
+        },
+        "betamethasone-clotrimazole": {
+            "allowed_amount": 6.9,
+            "days_supply": 7
+        },
+        "benzoyl peroxide-clindamycin": {
+            "allowed_amount": 243.08,
+            "days_supply": 20
+        },
+        "ergocalciferol": {
+            "allowed_amount": 6.04,
+            "days_supply": 90
+        }
+    }
+}

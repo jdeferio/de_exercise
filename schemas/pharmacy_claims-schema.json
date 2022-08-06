@@ -1,0 +1,30 @@
+{
+    "fields": [
+        {"name": "allowed_amount", "type": "text", "format": ""},
+        {"name": "card_id", "type": "text", "format": ""},
+        {"name": "claim_line_number", "type": "text", "format": ""},
+        {"name": "claim_status", "type": "text", "format": ""},
+        {"name": "days_supply", "type": "text", "format": ""},
+        {"name": "fill_date", "type": "date", "format": "%Y-%m-%d"},
+        {"name": "maintenance_drug_flag", "type": "text", "format": ""},
+        {"name": "medication_name", "type": "text", "format": ""},
+        {"name": "ndc_11", "type": "text", "format": ""},
+        {"name": "paid_date", "type": "text", "format": ""},
+        {"name": "pharmacy_id", "type": "text", "format": ""},
+        {"name": "pharmacy_name", "type": "text", "format": ""},
+        {"name": "pharmacy_npi", "type": "text", "format": ""},
+        {"name": "pharmacy_tax_id", "type": "text", "format": ""},
+        {"name": "prescriber_id", "type": "text", "format": ""},
+        {"name": "prescriber_npi", "type": "text", "format": ""},
+        {"name": "quantity_dispensed", "type": "text", "format": ""},
+        {"name": "refill_number", "type": "text", "format": ""},
+        {"name": "retail_mail_flag", "type": "text", "format": ""},
+        {"name": "run_date", "type": "date", "format": "%Y-%m-%d"},
+        {"name": "rxtype", "type": "text", "format": ""},
+        {"name": "specialty_drug_flag", "type": "text", "format": ""},
+        {"name": "strength_units", "type": "text", "format": ""},
+        {"name": "strength_value", "type": "text", "format": ""},
+        {"name": "uploadDate", "type": "date", "format": "%Y-%m-%d"},
+        {"name": "claim_number", "type": "text", "format": ""}
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "first_name": "David",
+    "last_name": "Rittenhouse",
+    "med_summary": {
+        "spironolactone": {
+            "allowed_amount": 8.93,
+            "days_supply": 30
+        },
+        "glyburide-metformin": {
+            "allowed_amount": 19.02,
+            "days_supply": 90
+        }
+    }
+}

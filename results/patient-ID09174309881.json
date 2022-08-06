@@ -1,0 +1,14 @@
+{
+    "first_name": "Betsy",
+    "last_name": "Ross",
+    "med_summary": {
+        "insulin glargine": {
+            "allowed_amount": 79.71,
+            "days_supply": 30
+        },
+        "metformin hcl": {
+            "allowed_amount": 16.97,
+            "days_supply": 90
+        }
+    }
+}

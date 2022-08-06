@@ -1,0 +1,86 @@
+{
+    "first_name": "Carl",
+    "last_name": "Marx",
+    "med_summary": {
+        "cyclosporine": {
+            "allowed_amount": 273.52,
+            "days_supply": 15
+        },
+        "atorvastatin calcium": {
+            "allowed_amount": 56.16,
+            "days_supply": 270
+        },
+        "pantoprazole sodium": {
+            "allowed_amount": 10.05,
+            "days_supply": 30
+        },
+        "hydrocodone-acetaminophen": {
+            "allowed_amount": 1.41,
+            "days_supply": 2
+        },
+        "azithromycin": {
+            "allowed_amount": 4.74,
+            "days_supply": 5
+        },
+        "naratriptan": {
+            "allowed_amount": 107.10000000000001,
+            "days_supply": 90
+        },
+        "oseltamivir phosphate": {
+            "allowed_amount": 31.21,
+            "days_supply": 5
+        },
+        "memantine hydrochloride": {
+            "allowed_amount": 84.33999999999999,
+            "days_supply": 176
+        },
+        "ofloxacin": {
+            "allowed_amount": 21.56,
+            "days_supply": 7
+        },
+        "clonidine hydrochloride": {
+            "allowed_amount": 12.49,
+            "days_supply": 60
+        },
+        "baclofen": {
+            "allowed_amount": 11.82,
+            "days_supply": 90
+        },
+        "glimepiride": {
+            "allowed_amount": 73.44,
+            "days_supply": 270
+        },
+        "metoprolol tartrate": {
+            "allowed_amount": 8.24,
+            "days_supply": 60
+        },
+        "prednisolone acetate": {
+            "allowed_amount": 33.19,
+            "days_supply": 45
+        },
+        "metformin hydrochloride": {
+            "allowed_amount": 60.480000000000004,
+            "days_supply": 270
+        },
+        "tramadol hydrochloride": {
+            "allowed_amount": 5.5,
+            "days_supply": 90
+        },
+        "levofloxacin": {
+            "allowed_amount": 2.29,
+            "days_supply": 5
+        },
+        "losartan potassium": {
+            "allowed_amount": 16.05,
+            "days_supply": 90
+        },
+        "gabapentin": {
+            "allowed_amount": 47.47,
+            "days_supply": 90
+        },
+        "ondansetron": {
+            "allowed_amount": 107.55000000000001,
+            "days_supply": 90
+        }
+    }
+}

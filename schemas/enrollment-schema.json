@@ -1,0 +1,11 @@
+{
+    "fields": [
+        {"name": "birth_date", "type": "date", "format": "%Y-%m-%d"},
+        {"name": "card_id", "type": "text", "format": ""},
+        {"name": "enrollment_end_date", "type": "date", "format": "%Y-%m-%d"},
+        {"name": "enrollment_start_date", "type": "date", "format": "%Y-%m-%d"},
+        {"name": "first_name", "type": "text", "format": ""},
+        {"name": "gender", "type": "text", "format": ""},
+        {"name": "last_name", "type": "text", "format": ""}
+    ]
+}

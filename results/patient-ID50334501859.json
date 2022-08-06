@@ -1,0 +1,22 @@
+{
+    "first_name": "Harvey",
+    "last_name": "Milk",
+    "med_summary": {
+        "ibuprofen": {
+            "allowed_amount": 3.13,
+            "days_supply": 5
+        },
+        "metformin hcl": {
+            "allowed_amount": 0.0,
+            "days_supply": 180
+        },
+        "atorvastatin calcium": {
+            "allowed_amount": 27.3,
+            "days_supply": 180
+        },
+        "amoxicillin": {
+            "allowed_amount": 0.0,
+            "days_supply": 10
+        }
+    }
+}
