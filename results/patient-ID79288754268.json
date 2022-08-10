@@ -7,12 +7,12 @@
             "days_supply": 20
         },
         "betamethasone-clotrimazole": {
-            "allowed_amount": 6.9,
-            "days_supply": 7
+            "allowed_amount": 13.8,
+            "days_supply": 14
         },
         "benzoyl peroxide-clindamycin": {
-            "allowed_amount": 243.08,
-            "days_supply": 20
+            "allowed_amount": 486.16,
+            "days_supply": 40
         },
         "ergocalciferol": {
             "allowed_amount": 6.04,

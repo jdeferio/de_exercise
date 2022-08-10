@@ -3,20 +3,20 @@
     "last_name": "Lincoln",
     "med_summary": {
         "semaglutide": {
-            "allowed_amount": 802.32,
-            "days_supply": 28
+            "allowed_amount": 1604.64,
+            "days_supply": 56
         },
         "nitrofurantoin": {
-            "allowed_amount": 18.27,
-            "days_supply": 7
+            "allowed_amount": 36.54,
+            "days_supply": 14
         },
         "metformin hydrochloride": {
-            "allowed_amount": 10.0,
-            "days_supply": 90
+            "allowed_amount": 20.0,
+            "days_supply": 180
         },
         "lisinopril": {
-            "allowed_amount": 10.0,
-            "days_supply": 90
+            "allowed_amount": 20.0,
+            "days_supply": 180
         }
     }
 }

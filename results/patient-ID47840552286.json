@@ -3,28 +3,28 @@
     "last_name": "Onassis",
     "med_summary": {
         "sitagliptin-metformin": {
-            "allowed_amount": 1876.8999999999999,
-            "days_supply": 120
+            "allowed_amount": 2815.3500000000004,
+            "days_supply": 180
         },
         "hydrochlorothiazide": {
             "allowed_amount": 5.01,
             "days_supply": 90
         },
         "colesevelam": {
-            "allowed_amount": 123.44,
-            "days_supply": 90
+            "allowed_amount": 246.88,
+            "days_supply": 180
         },
         "cyclobenzaprine hydrochloride": {
             "allowed_amount": 8.81,
             "days_supply": 90
         },
         "erenumab": {
-            "allowed_amount": 1787.92,
-            "days_supply": 90
+            "allowed_amount": 2983.26,
+            "days_supply": 150
         },
         "metoprolol succinate": {
-            "allowed_amount": 40.43,
-            "days_supply": 90
+            "allowed_amount": 80.86,
+            "days_supply": 180
         }
     }
 }

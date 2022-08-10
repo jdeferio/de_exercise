@@ -7,80 +7,80 @@
             "days_supply": 15
         },
         "atorvastatin calcium": {
-            "allowed_amount": 56.16,
-            "days_supply": 270
+            "allowed_amount": 93.6,
+            "days_supply": 450
         },
         "pantoprazole sodium": {
             "allowed_amount": 10.05,
             "days_supply": 30
         },
         "hydrocodone-acetaminophen": {
-            "allowed_amount": 1.41,
-            "days_supply": 2
+            "allowed_amount": 2.82,
+            "days_supply": 4
         },
         "azithromycin": {
             "allowed_amount": 4.74,
             "days_supply": 5
         },
         "naratriptan": {
-            "allowed_amount": 107.10000000000001,
-            "days_supply": 90
+            "allowed_amount": 142.8,
+            "days_supply": 120
         },
         "oseltamivir phosphate": {
             "allowed_amount": 31.21,
             "days_supply": 5
         },
         "memantine hydrochloride": {
-            "allowed_amount": 84.33999999999999,
-            "days_supply": 176
+            "allowed_amount": 119.45999999999998,
+            "days_supply": 249
         },
         "ofloxacin": {
             "allowed_amount": 21.56,
             "days_supply": 7
         },
         "clonidine hydrochloride": {
-            "allowed_amount": 12.49,
-            "days_supply": 60
+            "allowed_amount": 24.98,
+            "days_supply": 120
         },
         "baclofen": {
-            "allowed_amount": 11.82,
-            "days_supply": 90
+            "allowed_amount": 23.64,
+            "days_supply": 180
         },
         "glimepiride": {
-            "allowed_amount": 73.44,
-            "days_supply": 270
+            "allowed_amount": 122.4,
+            "days_supply": 450
         },
         "metoprolol tartrate": {
-            "allowed_amount": 8.24,
-            "days_supply": 60
+            "allowed_amount": 16.48,
+            "days_supply": 120
         },
         "prednisolone acetate": {
             "allowed_amount": 33.19,
             "days_supply": 45
         },
         "metformin hydrochloride": {
-            "allowed_amount": 60.480000000000004,
-            "days_supply": 270
+            "allowed_amount": 100.8,
+            "days_supply": 450
         },
         "tramadol hydrochloride": {
-            "allowed_amount": 5.5,
-            "days_supply": 90
+            "allowed_amount": 7.25,
+            "days_supply": 120
         },
         "levofloxacin": {
             "allowed_amount": 2.29,
             "days_supply": 5
         },
         "losartan potassium": {
-            "allowed_amount": 16.05,
-            "days_supply": 90
+            "allowed_amount": 32.1,
+            "days_supply": 180
         },
         "gabapentin": {
-            "allowed_amount": 47.47,
-            "days_supply": 90
+            "allowed_amount": 94.94,
+            "days_supply": 180
         },
         "ondansetron": {
-            "allowed_amount": 107.55000000000001,
-            "days_supply": 90
+            "allowed_amount": 178.39000000000001,
+            "days_supply": 150
         }
     }
 }

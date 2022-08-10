@@ -7,20 +7,20 @@
             "days_supply": 90
         },
         "ertugliflozin": {
-            "allowed_amount": 1439.3500000000001,
-            "days_supply": 150
+            "allowed_amount": 1724.04,
+            "days_supply": 180
         },
         "hydrochlorothiazide": {
-            "allowed_amount": 16.32,
-            "days_supply": 90
+            "allowed_amount": 32.64,
+            "days_supply": 180
         },
         "allopurinol": {
             "allowed_amount": 29.92,
             "days_supply": 90
         },
         "varicella zoster vaccine (recombinant)": {
-            "allowed_amount": 164.1,
-            "days_supply": 1
+            "allowed_amount": 328.2,
+            "days_supply": 2
         },
         "metformin hydrochloride": {
             "allowed_amount": 18.05,
@@ -35,8 +35,8 @@
             "days_supply": 90
         },
         "losartan potassium": {
-            "allowed_amount": 15.06,
-            "days_supply": 90
+            "allowed_amount": 30.12,
+            "days_supply": 180
         },
         "amlodipine besylate": {
             "allowed_amount": 15.62,
